@@ -4,11 +4,11 @@ I'm studying Computer Science and Mathematics for Programming @ UW-Madison
 
 ## Currently
 
-🔭 Building AI-powered software and developer tools
+- Building AI-powered software and developer tools
 
-🌱 Learning operating systems, databases, and large-scale systems
+- Studying operating systems, databases, and large-scale systems
 
-⚡ Summer 2026 Intern @ RelationalAI
+- Summer 2026 AI Engineering Intern @ RelationalAI
 
 ## Connect with me!
 
