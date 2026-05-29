@@ -1,6 +1,6 @@
 # Hi, I'm Sam!
 
-I'm studying Computer Science and Mathematics for Programming @ UW-Madison
+I'm studying Computer Science and Mathematics @ UW-Madison
 
 ## Currently
 
