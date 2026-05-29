@@ -13,5 +13,4 @@ I'm studying Computer Science and Mathematics @ UW-Madison
 ## Connect
 
 - LinkedIn: [linkedin.com/in/sam-avramov](https://www.linkedin.com/in/samavramov/)
-- Handshake: https://app.joinhandshake.com/profiles/samavramov
 - Email: avramov@cs.wisc.edu
