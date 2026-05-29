@@ -12,7 +12,7 @@ I'm studying Computer Science and Mathematics for Programming @ UW-Madison
 
 ## Connect with me!
 
-- LinkedIn: linkedin.com/in/sam-avramov
+- LinkedIn: [linkedin.com/in/sam-avramov](https://www.linkedin.com/in/samavramov/)
 - Handshake: https://app.joinhandshake.com/profiles/samavramov
 - Email: avramov@cs.wisc.edu
 
