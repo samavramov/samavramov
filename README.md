@@ -10,17 +10,8 @@ I'm studying Computer Science and Mathematics for Programming @ UW-Madison
 
 - Summer 2026 AI Engineering Intern @ RelationalAI
 
-## Connect with me!
+## Connect
 
 - LinkedIn: [linkedin.com/in/sam-avramov](https://www.linkedin.com/in/samavramov/)
 - Handshake: https://app.joinhandshake.com/profiles/samavramov
 - Email: avramov@cs.wisc.edu
-
-## GitHub Stats
-
-
-<p align="center">
-
-  <img src="https://streak-stats.demolab.com?user=samavramov&hide_border=true" />
-
-</p>
