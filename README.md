@@ -18,13 +18,6 @@ I'm studying Computer Science and Mathematics for Programming @ UW-Madison
 
 ## GitHub Stats
 
-<p align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samavramov&show_icons=true&hide_border=true" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samavramov&layout=compact&hide_border=true" />
-
-</p>
 
 <p align="center">
 
