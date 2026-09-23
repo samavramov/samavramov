@@ -8,7 +8,7 @@ I'm studying Computer Science and Mathematics @ UW-Madison
 
 - Studying operating systems, databases, and large-scale systems
 
-- Summer 2026 AI Engineering Intern @ RelationalAI
+- Previously a Summer 2026 AI Engineering Intern @ RelationalAI
 
 ## Connect
 
